@@ -1,0 +1,77 @@
+Emotion Recognition and Depression Detection System using Deep Learning
+This project implements a web application for detecting signs of depression in user-uploaded videos.
+
+Tech Stack
+-Backend: Python (Flask)
+-Database: SQLite
+-Machine Learning: Keras (TensorFlow backend)
+-Computer Vision: OpenCV
+-Natural Language Processing: TextBlob
+-Speech Recognition: SpeechRecognition
+-Web Development: Flask-Migrate, Flask-SQLAlchemy
+
+Algorithms
+-Facial Emotion Recognition: Convolutional Neural Network (CNN) trained on facial expressions
+-Sentiment Analysis: TextBlob library for analyzing audio transcripts
+
+Functionalities
+-Users can upload videos.
+-The system detects emotions in the video frames using facial recognition.
+-Audio from the video is extracted and analyzed for sentiment using speech recognition and text analysis.
+-The system combines the results from facial recognition and sentiment analysis to provide an overall indication of potential depression.
+-The results are displayed on the user interface.
+
+Installation and Usage (Modify as needed)
+1. Dependencies:
+
+Make sure you have the following libraries installed in your Python environment:
+
+numpy
+requests
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+keras
+OpenCV
+tensorflow
+TextBlob
+SpeechRecognition
+moviepy
+
+2. Database Setup:
+
+The system uses an SQLite database for storing user information. You can create the database tables by running the application with the debug=True flag:
+Bash
+python app.py
+
+3. Running the Application:
+
+Start the application:
+
+Bash
+python app.py
+
+Here's a View of the Actual Website
+
+1)The homepage with a video upload button-
+
+![1](https://github.com/user-attachments/assets/ab208e3a-0336-4c47-8a05-d0aa0e16a4b4)
+
+![2](https://github.com/user-attachments/assets/d139e6a3-78e0-46d2-933e-94ff5695c1be)
+
+![4](https://github.com/user-attachments/assets/d71d889f-24db-4882-bdc5-8a40b9519beb)
+
+
+2)The results page displaying detected emotions and sentiment analysis output-
+
+![7](https://github.com/user-attachments/assets/2e7cc899-f0f0-4f40-bd01-c1695820b927)
+
+3) Service provided like Doctor Consultation/Recommendation-
+   
+![8](https://github.com/user-attachments/assets/8d8293ce-9bc0-4703-b5b7-991176ea8a6c)
+
+![9](https://github.com/user-attachments/assets/b9be3cb6-93e5-4a85-813c-2a614040a273)
+
+![10](https://github.com/user-attachments/assets/dcb245cc-5b3b-451d-956b-8d1cbbba53b0)
+
+
