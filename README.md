@@ -11,15 +11,15 @@
 <br>7)Web Development: Flask-Migrate, Flask-SQLAlchemy</br>
 
 #Algorithms
-1.Facial Emotion Recognition: Convolutional Neural Network (CNN) trained on facial expressions
-2.Sentiment Analysis: TextBlob library for analyzing audio transcripts
+<br>1.Facial Emotion Recognition: Convolutional Neural Network (CNN) trained on facial expressions</br>
+<br>2.Sentiment Analysis: TextBlob library for analyzing audio transcripts</br>
 
 #Functionalities
-1.Users can upload videos.
-2.The system detects emotions in the video frames using facial recognition.
-3.Audio from the video is extracted and analyzed for sentiment using speech recognition and text analysis.
-4.The system combines the results from facial recognition and sentiment analysis to provide an overall indication of potential depression.
-5.The results are displayed on the user interface.
+<br1.Users can upload videos.</br>
+<br>2.The system detects emotions in the video frames using facial recognition.</br>
+<br>3.Audio from the video is extracted and analyzed for sentiment using speech recognition and text analysis.</br>
+<br>4.The system combines the results from facial recognition and sentiment analysis to provide an overall indication of potential depression.</br>
+<br>5.The results are displayed on the user interface.
 
 #Installation and Usage (Modify as needed)
 1. Dependencies:
