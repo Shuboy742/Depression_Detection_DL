@@ -3,12 +3,12 @@
 
 #Tech Stack
 <br>1)Backend: Python (Flask)</br>
-2)Database: SQLite
-3)Machine Learning: Keras (TensorFlow backend)
-4)Computer Vision: OpenCV
-5)Natural Language Processing: TextBlob
-6)Speech Recognition: SpeechRecognition
-7)Web Development: Flask-Migrate, Flask-SQLAlchemy<
+<br>2)Database: SQLite</br>
+<br>3)Machine Learning: Keras (TensorFlow backend)</br>
+<br>4)Computer Vision: OpenCV</br>
+<br>5)Natural Language Processing: TextBlob</br>
+<br>6)Speech Recognition: SpeechRecognition</br>
+<br>7)Web Development: Flask-Migrate, Flask-SQLAlchemy</br>
 
 #Algorithms
 1.Facial Emotion Recognition: Convolutional Neural Network (CNN) trained on facial expressions
