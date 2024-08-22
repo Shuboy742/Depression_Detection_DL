@@ -2,13 +2,13 @@
 -This project implements a web application for detecting signs of depression in user-uploaded videos.
 
 #Tech Stack
-1.Backend: Python (Flask)
-2Database: SQLite
-3.Machine Learning: Keras (TensorFlow backend)
-4.Computer Vision: OpenCV
-5.Natural Language Processing: TextBlob
-6.Speech Recognition: SpeechRecognition
-7.Web Development: Flask-Migrate, Flask-SQLAlchemy<
+1)Backend: Python (Flask)
+2)Database: SQLite
+3)Machine Learning: Keras (TensorFlow backend)
+4)Computer Vision: OpenCV
+5)Natural Language Processing: TextBlob
+6)Speech Recognition: SpeechRecognition
+7)Web Development: Flask-Migrate, Flask-SQLAlchemy<
 
 #Algorithms
 1.Facial Emotion Recognition: Convolutional Neural Network (CNN) trained on facial expressions
