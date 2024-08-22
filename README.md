@@ -1,5 +1,5 @@
 #Emotion Recognition and Depression Detection System using Deep Learning
--This project implements a web application for detecting signs of depression in user-uploaded videos.
+<br>-This project implements a web application for detecting signs of depression in user-uploaded videos.</br>
 
 #Tech Stack
 <br>1)Backend: Python (Flask)</br>
@@ -26,17 +26,17 @@
 
 #Make sure you have the following libraries installed in your Python environment:
 
-numpy
-requests
-Flask
-Flask-SQLAlchemy
-Flask-Migrate
-keras
-OpenCV
-tensorflow
-TextBlob
-SpeechRecognition
-moviepy
+<br>numpy
+<br>requests
+<br>Flask
+<br>Flask-SQLAlchemy
+<br>Flask-Migrate
+<br>keras
+<br>OpenCV
+<br>tensorflow
+<br>TextBlob
+<br>SpeechRecognition
+<br>moviepy
 
 2. Database Setup:
 
