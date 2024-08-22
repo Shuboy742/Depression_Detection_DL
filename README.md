@@ -2,23 +2,23 @@
 <br>-This project implements a web application for detecting signs of depression in user-uploaded videos.</br>
 
 #Tech Stack
-<br>1)Backend: Python (Flask)</br>
-<br>2)Database: SQLite</br>
-<br>3)Machine Learning: Keras (TensorFlow backend)</br>
-<br>4)Computer Vision: OpenCV</br>
-<br>5)Natural Language Processing: TextBlob</br>
-<br>6)Speech Recognition: SpeechRecognition</br>
-<br>7)Web Development: Flask-Migrate, Flask-SQLAlchemy</br>
+<br>1)Backend: Python (Flask)
+<br>2)Database: SQLite
+<br>3)Machine Learning: Keras (TensorFlow backend)
+<br>4)Computer Vision: OpenCV
+<br>5)Natural Language Processing: TextBlob
+<br>6)Speech Recognition: SpeechRecognition
+<br>7)Web Development: Flask-Migrate, Flask-SQLAlchemy
 
 #Algorithms
-<br>1.Facial Emotion Recognition: Convolutional Neural Network (CNN) trained on facial expressions</br>
-<br>2.Sentiment Analysis: TextBlob library for analyzing audio transcripts</br>
+<br>1.Facial Emotion Recognition: Convolutional Neural Network (CNN) trained on facial expressions
+<br>2.Sentiment Analysis: TextBlob library for analyzing audio transcripts
 
 #Functionalities
-<br1.Users can upload videos.</br>
-<br>2.The system detects emotions in the video frames using facial recognition.</br>
-<br>3.Audio from the video is extracted and analyzed for sentiment using speech recognition and text analysis.</br>
-<br>4.The system combines the results from facial recognition and sentiment analysis to provide an overall indication of potential depression.</br>
+<br1.Users can upload videos.
+<br>2.The system detects emotions in the video frames using facial recognition.
+<br>3.Audio from the video is extracted and analyzed for sentiment using speech recognition and text analysis.
+<br>4.The system combines the results from facial recognition and sentiment analysis to provide an overall indication of potential depression.
 <br>5.The results are displayed on the user interface.
 
 #Installation and Usage (Modify as needed)
