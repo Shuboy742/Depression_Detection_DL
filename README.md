@@ -2,7 +2,7 @@
 -This project implements a web application for detecting signs of depression in user-uploaded videos.
 
 #Tech Stack
-1)Backend: Python (Flask)
+<br>1)Backend: Python (Flask)</br>
 2)Database: SQLite
 3)Machine Learning: Keras (TensorFlow backend)
 4)Computer Vision: OpenCV
