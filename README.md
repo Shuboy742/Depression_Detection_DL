@@ -2,24 +2,24 @@
 -This project implements a web application for detecting signs of depression in user-uploaded videos.
 
 #Tech Stack
-<br>-Backend: Python (Flask)
--Database: SQLite
--Machine Learning: Keras (TensorFlow backend)
--Computer Vision: OpenCV
--Natural Language Processing: TextBlob
--Speech Recognition: SpeechRecognition
--Web Development: Flask-Migrate, Flask-SQLAlchemy<br>
+1.Backend: Python (Flask)
+2Database: SQLite
+3.Machine Learning: Keras (TensorFlow backend)
+4.Computer Vision: OpenCV
+5.Natural Language Processing: TextBlob
+6.Speech Recognition: SpeechRecognition
+7.Web Development: Flask-Migrate, Flask-SQLAlchemy<
 
 #Algorithms
--Facial Emotion Recognition: Convolutional Neural Network (CNN) trained on facial expressions
--Sentiment Analysis: TextBlob library for analyzing audio transcripts
+1.Facial Emotion Recognition: Convolutional Neural Network (CNN) trained on facial expressions
+2.Sentiment Analysis: TextBlob library for analyzing audio transcripts
 
 #Functionalities
--Users can upload videos.
--The system detects emotions in the video frames using facial recognition.
--Audio from the video is extracted and analyzed for sentiment using speech recognition and text analysis.
--The system combines the results from facial recognition and sentiment analysis to provide an overall indication of potential depression.
--The results are displayed on the user interface.
+1.Users can upload videos.
+2.The system detects emotions in the video frames using facial recognition.
+3.Audio from the video is extracted and analyzed for sentiment using speech recognition and text analysis.
+4.The system combines the results from facial recognition and sentiment analysis to provide an overall indication of potential depression.
+5.The results are displayed on the user interface.
 
 #Installation and Usage (Modify as needed)
 1. Dependencies:
@@ -44,9 +44,7 @@ The system uses an SQLite database for storing user information. You can create 
 <br>python app.py<br/>
 
 3. Running the Application:
-
 Start the application:
-
 <br>python app.py<br/>
 
 Here's a View of the Actual Website
