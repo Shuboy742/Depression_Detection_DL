@@ -1,7 +1,7 @@
-Emotion Recognition and Depression Detection System using Deep Learning
-This project implements a web application for detecting signs of depression in user-uploaded videos.
+#Emotion Recognition and Depression Detection System using Deep Learning
+-This project implements a web application for detecting signs of depression in user-uploaded videos.
 
-Tech Stack
+#Tech Stack
 -Backend: Python (Flask)
 -Database: SQLite
 -Machine Learning: Keras (TensorFlow backend)
@@ -10,21 +10,21 @@ Tech Stack
 -Speech Recognition: SpeechRecognition
 -Web Development: Flask-Migrate, Flask-SQLAlchemy
 
-Algorithms
+#Algorithms
 -Facial Emotion Recognition: Convolutional Neural Network (CNN) trained on facial expressions
 -Sentiment Analysis: TextBlob library for analyzing audio transcripts
 
-Functionalities
+#Functionalities
 -Users can upload videos.
 -The system detects emotions in the video frames using facial recognition.
 -Audio from the video is extracted and analyzed for sentiment using speech recognition and text analysis.
 -The system combines the results from facial recognition and sentiment analysis to provide an overall indication of potential depression.
 -The results are displayed on the user interface.
 
-Installation and Usage (Modify as needed)
+#Installation and Usage (Modify as needed)
 1. Dependencies:
 
-Make sure you have the following libraries installed in your Python environment:
+#Make sure you have the following libraries installed in your Python environment:
 
 numpy
 requests
@@ -41,15 +41,13 @@ moviepy
 2. Database Setup:
 
 The system uses an SQLite database for storing user information. You can create the database tables by running the application with the debug=True flag:
-Bash
-python app.py
+<br>python app.py<br/>
 
 3. Running the Application:
 
 Start the application:
 
-Bash
-python app.py
+<br>python app.py<br/>
 
 Here's a View of the Actual Website
 
