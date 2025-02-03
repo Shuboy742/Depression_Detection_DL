@@ -15,7 +15,7 @@
 <br>2.Sentiment Analysis: TextBlob library for analyzing audio transcripts
 
 #Functionalities
-<br1.Users can upload videos.
+<br>1.Users can upload videos.
 <br>2.The system detects emotions in the video frames using facial recognition.
 <br>3.Audio from the video is extracted and analyzed for sentiment using speech recognition and text analysis.
 <br>4.The system combines the results from facial recognition and sentiment analysis to provide an overall indication of potential depression.
